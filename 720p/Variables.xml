@@ -350,7 +350,7 @@
 		<value condition="Player.HasAudio">$INFO[MusicPlayer.Artist]</value>
 		<value condition="VideoPlayer.Content(files)">$INFO[Player.FolderPath]$INFO[VideoPlayer.VideoResolution, &#8226; ,P]</value>
 		<value condition="VideoPlayer.Content(movies)">$INFO[VideoPlayer.Genre]$INFO[VideoPlayer.Director, &#8226; ]$INFO[VideoPlayer.Studio, &#8226; ]$INFO[VideoPlayer.Year, &#8226; ]$INFO[VideoPlayer.VideoResolution, &#8226; ,P]</value>
-		<value condition="VideoPlayer.Content(episodes) + Skin.HasSetting(ratings.tvshows.enable)">$INFO[VideoPlayer.Season,$LOCALIZE[20373] , - ]$INFO[VideoPlayer.Episode,$LOCALIZE[20359] ]$INFO[VideoPlayer.Rating, &#8226; , &#8226; ]$INFO[VideoPlayer.VideoResolution,,P]</value>
+		<value condition="VideoPlayer.Content(episodes) + Skin.HasSetting(ratings.tvshows.enable)">$INFO[VideoPlayer.Season,$LOCALIZE[20373] , - ]$INFO[VideoPlayer.Episode,$LOCALIZE[20359] ]$INFO[VideoPlayer.Rating, &#8226; ,]$INFO[VideoPlayer.VideoResolution, &#8226; ,P]</value>
 		<value condition="VideoPlayer.Content(episodes)">$INFO[VideoPlayer.Season,$LOCALIZE[20373] , - ]$INFO[VideoPlayer.Episode,$LOCALIZE[20359] ]$INFO[VideoPlayer.VideoResolution, &#8226; ,P]</value>
 		<value condition="VideoPlayer.Content(musicvideos)">$INFO[VideoPlayer.Artist]$INFO[VideoPlayer.Album, &#8226; ]$INFO[VideoPlayer.Year, &#8226; ]$INFO[VideoPlayer.VideoResolution, &#8226; ,P]</value>
 		<value condition="VideoPlayer.Content(livetv)">$INFO[VideoPlayer.ChannelName,, &#8226; ]$INFO[VideoPlayer.NextTitle,$LOCALIZE[209]: ] ($INFO[VideoPlayer.Endtime])</value>
