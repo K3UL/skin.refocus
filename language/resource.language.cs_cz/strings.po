@@ -420,7 +420,7 @@ msgstr ""
 
 msgctxt "#31249"
 msgid "Show TV show ratings"
-msgstr ""
+msgstr "Zobrazit hodnocení u TV seriálů"
 
 msgctxt "#31250"
 msgid "Show movie ratings"
@@ -501,6 +501,10 @@ msgstr "Na celou obrazovku / Seznam stop"
 msgctxt "#31285"
 msgid "Player controls"
 msgstr "Ovládání přehrávače"
+
+msgctxt "#31286"
+msgid "Show TV episode ratings"
+msgstr ""
 
 #: OSD / PLAYER
 msgctxt "#31300"

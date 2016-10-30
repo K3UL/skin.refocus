@@ -488,6 +488,10 @@ msgctxt "#31285"
 msgid "Player controls"
 msgstr "Contrôles du lecteur"
 
+msgctxt "#31286"
+msgid "Show TV episode ratings"
+msgstr "Montrer les évaluations des épisodes"
+
 #: OSD / PLAYER
 msgctxt "#31300"
 msgid "Fwd 2X"

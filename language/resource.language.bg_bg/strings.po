@@ -402,7 +402,7 @@ msgstr ""
 
 msgctxt "#31249"
 msgid "Show TV show ratings"
-msgstr ""
+msgstr "Показвай рейтинга на ТВ Сериали"
 
 msgctxt "#31250"
 msgid "Show movie ratings"
@@ -482,6 +482,10 @@ msgstr ""
 
 msgctxt "#31285"
 msgid "Player controls"
+msgstr ""
+
+msgctxt "#31286"
+msgid "Show TV episode ratings"
 msgstr ""
 
 #: OSD / PLAYER

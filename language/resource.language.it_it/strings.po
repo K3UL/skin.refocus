@@ -505,6 +505,10 @@ msgctxt "#31285"
 msgid "Full player controls"
 msgstr "Controlli di riproduzione completi"
 
+msgctxt "#31286"
+msgid "Show TV episode ratings"
+msgstr ""
+
 #: OSD / PLAYER
 msgctxt "#31300"
 msgid "Fwd 2X"

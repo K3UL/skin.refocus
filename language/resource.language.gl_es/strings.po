@@ -484,6 +484,10 @@ msgctxt "#31285"
 msgid "Player controls"
 msgstr "Controis do reprodutor"
 
+msgctxt "#31286"
+msgid "Show TV episode ratings"
+msgstr ""
+
 #: OSD / PLAYER
 msgctxt "#31300"
 msgid "Fwd 2X"
